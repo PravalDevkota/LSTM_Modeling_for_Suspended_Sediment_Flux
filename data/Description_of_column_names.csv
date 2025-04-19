@@ -1,0 +1,89 @@
+Column names in csv file,Actual description of the columns
+COMID,The ID of reaches in the MERIT river network
+date,The date corresponding to the observed sediment flux recording
+Observed_Sediment_Flux,The observed sediment flux value
+reservoir_capacity,Average reservoir capacity divided by distance
+relief,Difference between maximum and minimum elevation within the basin
+1,Percentage of Evergreen Needleleaf Forests
+2,Percentage of Evergreen Broadleaf Forests
+3,Percentage of Deciduous Needleleaf Forests
+4,Percentage of Deciduous Broadleaf Forests
+5,Percentage of Mixed Forests
+6,Percentage of Closed Shrublands
+7,Percentage of Open Shrublands
+8,Percentage of Woody Savannas
+9,Percentage of Savannas
+10,Percentage of Grasslands
+11,Percentage of Permanent Wetlands
+12,Percentage of Croplands
+13,Percentage of Urban and Built-up Lands
+14,Percentage of Cropland/Natural Vegetation Mosaics/Small Scale Cultivation
+15,Percentage of Permanent Snow and Ice
+16,Percentage of Barren
+17,Percentage of Water Bodies
+longest_paths,Length of longest river within the basin
+Maximum_Temperature,Daily maximum temperature
+Minimum_Temperature,Daily minimum temperature
+Mean_Temperature,Daily average 2-meter air temperature
+modelled_discharge,Daily modelled river discharge at outlet of basin
+precipitation,Daily average precipitation
+1.1,Percentage of Clay at 0cm depth
+2.1,Percentage of Silty Clay at 0cm depth
+3.1,Percentage of Sandy Clay at 0cm depth
+4.1,Percentage of Clay Loam at 0cm depth
+5.1,Percentage of Silty Clay Loam at 0cm depth
+6.1,Percentage of Sandy Clay Loam at 0cm depth
+7.1,Percentage of Loam at 0cm depth
+8.1,Percentage of Silty Loam at 0cm depth
+9.1,Percentage of Sandy Loam at 0cm depth
+10.1,Percentage of Silt at 0cm depth
+11.1,Percentage of Loamy Sand at 0cm depth
+12.1,Percentage of Sand at 0cm depth
+Population,Sum of population within the basin
+uparea,Total drainage area
+gdp_ud_usu,Sum of gross domestic product within the basin
+snowfall,Daily average snowfall
+sum_evaporation,Daily sum evaporation
+sum_mean_surface_downward_long_wave_radiation,Daily sum surface downward long-wave radiation flux
+sum_mean_surface_downward_short_wave_radiation,Daily sum surface downward short-wave radiation flux
+sum_precipitation,Daily sum precipitation
+sum_snowfall,Daily sum snowfall
+sum_runoff,Daily sum lateral runoff
+pre_mm_cyr,Annual average of precipitation within the reach catchment
+pre_mm_uyr,Annual average of precipitation within the basin
+pet_mm_cyr,Annual average of potential evapotranspiration within the reach catchment
+pet_mm_uyr,Annual average of potential evapotranspiration within the basin
+aet_mm_cyr,Annual average of actual evapotranspiration within the reach catchment
+aet_mm_uyr,Annual average of actual evapotranspiration within the basin
+run_mm_cyr,Annual average of runoff within the reach catchment
+ari_ix_cav,Global aridity index within the reach catchment
+ari_ix_uav,Global aridity index within the basin
+ele_mt_cav,Average elevation within the reach catchment
+ele_mt_uav,Average elevation within the basin
+ele_mt_cmx,Maximum elevation within the reach catchment
+slp_dg_cav,Average terrain slope within the reach catchment
+slp_dg_uav,Average terrain slope within the basin
+sgr_dk_rav,Average gradient along the reach within the reach catchment
+for_pc_cse,Percent of forest cover extent within the reach catchment
+for_pc_use,Percent of forest cover extent within the basin
+crp_pc_cse,Percent of cropland extent within the reach catchment
+crp_pc_use,Percent of cropland extent within the basin
+pst_pc_cse,Percent of pasture extent within the reach catchment
+pst_pc_use,Percent of pasture extent within the basin
+cly_pc_cav,Clay fraction in soil within the reach catchment
+cly_pc_uav,Clay fraction in soil within the basin
+slt_pc_cav,Silt fraction in soil within the reach catchment
+slt_pc_uav,Silt fraction in soil within the basin
+snd_pc_cav,Sand fraction in soil within the reach catchment
+snd_pc_uav,Sand fraction in soil within the basin
+rev_mc_usu,Total reservoir volume within the basin
+dor_pc_pva,Degree of regulation for flow at the basin outlet
+lit_cl_cmj,Mode lithologic class within the reach catchment
+ero_kh_cav,Annual average of soil erosion within the reach catchment
+ero_kh_uav,Annual average of soil erosion within the basin
+ppd_pk_cav,Average population density within the reach catchment
+ppd_pk_uav,Average population density within the basin
+urb_pc_use,Average urban area extent within the basin
+evaporation,Daily average evaporation
+mean_surface_downward_long_wave_radiation,Daily average surface downward long-wave radiation flux
+mean_surface_downward_short_wave_radiation,Daily average surface downward short-wave radiation flux
