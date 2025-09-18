@@ -1,6 +1,6 @@
 # LSTM Modeling for Suspended Sediment Flux (SSF) – Sample Run
 
-This repository contains a sample source code for the paper titled 'Towards Global Estimation of Riverine Suspended Sediment Flux Using Empirical and Deep Learning Approaches' using a sample input file for a single COMID. It is designed to run for one basin, one random seed, and a specific set of hyperparameters.
+This repository contains a sample source code for the paper titled 'Towards Global Estimation of Riverine Suspended Sediment Flux Using Deep Learning' using a sample input file for a single COMID. It is designed to run for one basin, one random seed, and a specific set of hyperparameters.
 
 ## Requirements
 
