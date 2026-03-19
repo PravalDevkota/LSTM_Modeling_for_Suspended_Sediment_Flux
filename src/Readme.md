@@ -1,6 +1,6 @@
 # LSTM Modeling for Suspended Sediment Flux (SSF) – Sample Run
 
-This repository contains a sample source code for the paper titled 'Towards Global Estimation of Riverine Suspended Sediment Flux Using Deep Learning' using a sample input file for a single COMID. It is designed to run for one basin, one random seed, and a specific set of hyperparameters.
+This repository contains a sample source code for the paper titled 'Towards Global Estimation of Riverine Suspended Sediment Flux Using Empirical and Deep Learning Approaches' using a sample input file for a single COMID. It is designed to run for one basin, one random seed, and a specific set of hyperparameters.
 
 ## Requirements
 
@@ -54,6 +54,6 @@ Replace this with a writable directory on your local machine.
 ### Output Folder  
 The notebook will automatically create an output folder named based on the model configuration, such as:
 
-tr_0.7_bs_32_id_85_hd_256_nl_1_lr_0.0001_sl_30_ep_100_se_1_last_epoch
+tr_0.7_bs_32_id_78_hd_256_nl_1_lr_0.0001_sl_30_ep_100_se_1_last_epoch
 
 This folder will be saved under the directory specified in base_path.
